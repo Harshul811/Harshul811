@@ -1,4 +1,4 @@
-```md
+
 # Hi, I'm Harshul Gupta
 
 I'm a Mathematics & Computing graduate interested in **Software Engineering, Machine Learning, Data, and Applied Mathematics**.
@@ -27,4 +27,4 @@ React · Node.js · MongoDB · MySQL · Git
   <img src="https://github-readme-stats.vercel.app/api?username=Harshul811&show_icons=true&hide_border=true&theme=default" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshul811&layout=compact&hide_border=true&theme=default" height="160"/>
 </p>
-```
+
